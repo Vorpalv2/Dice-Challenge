@@ -2,4 +2,4 @@
 Dice Challenge
 
 
-Link =>
+Link => https://vorpalv2.github.io/Dice-Challenge/
